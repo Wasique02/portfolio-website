@@ -226,7 +226,7 @@ header nav ul li a:hover{
 .flex .box img{
     width: 180px;
     border: 2px solid white;
-    box-shadow: 10px 5px 7px grey;
+    box-shadow: 7px 5px 10px rgb(117, 116, 116);
 }
 
 
